@@ -1,0 +1,15 @@
+accelerate<1.6
+diffusers==0.14.0
+opencv-python-headless
+imageio
+imageio-ffmpeg
+einops
+tensorboard
+transformers==4.29.2
+kornia
+fairscale
+importlib-metadata
+timm
+datasets
+huggingface_hub==0.24.0
+git+https://github.com/openai/CLIP.git@main#egg=clip
